@@ -1,0 +1,34 @@
+body { background: linear-gradient(#FF1493,#9400D3,#FF1493,#FFFF00)}
+h1 
+{ color : white; 
+font-family:'Exo', sans-serif; 
+border: 2px solid powderblue; border-radius: 10px; 
+padding-top: 20px; 
+padding-left:50px; 
+text-align:center; 
+margin: 50px;
+}
+h4{color:#9ACD32}
+h5{color:#FFFFFF}
+h6{color:#FF9933}
+p{ 
+color : black; font-size: 200%;
+}
+#six{ 
+color: white;
+} 
+#div7{ 
+float:right;
+}
+#div6{ 
+float:left;
+}
+#div8{
+float:left;
+}
+#div9{
+float:right;
+}
+
+float:right;
+}
