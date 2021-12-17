@@ -2,6 +2,7 @@ body { background: linear-gradient(#FF1493,#9400D3,#FF1493,#FFFF00,#192a56)}
 grad{
     width: 900px;
     height: 500px;
+    text-align:center;
 }
 h1 
 { color : white; 
